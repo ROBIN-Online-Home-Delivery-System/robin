@@ -41,19 +41,19 @@ Password
 </div>
 <div>
   <h3>Tomato</h3>
-  <img src='images/Tomato.jpg'/>
+  <img src='Images/Tomato.jpg'/>
   <p>Price: 60 Taka<p>
   <p class='nav'>Not available now<p>
 </div>
 <div>
   <h3>Soap</h3>
-  <img src='images/Soap.jpg'/>
+  <img src='Images/Soap.jpg'/>
   <p>Price: 40 Taka<p>
   <p class='av'>Available now<p>
 </div>
 <div>
   <h3>Soap</h3>
-  <img src='images/Onion.jpg'/>
+  <img src='Images/Onion.jpg'/>
   <p>Price: 40 Taka<p>
   <p id='lr' class='av'>Available now<p>
 </div>
