@@ -27,12 +27,10 @@ Enter your name hare
 Password
 <input type="password">
 <button>Login</button>
-<div>
-  <p><h3>Rice</h3><P>
+<div><p><h3>Rice</h3><P>
   <img src='Images/Rice.jpg'/>
   <p>Price: 50 Taka<p>
-  <p class='av'>Available now<p>
-</div>
+  <p class='av'>Available now<p></div>
 <div>
   <p><h3>Soyabin Oil</h3><p>
   <img src='Soyabin Oil.jpg'/>
