@@ -31,12 +31,10 @@ Password
   <img src='Images/Rice.jpg'/>
   <p>Price: 50 Taka<p>
   <p class='av'>Available now<p></div>
-<div>
-  <p><h3>Soyabin Oil</h3><p>
+<div><p><h3>Soyabin Oil</h3><p>
   <img src='Soyabin Oil.jpg'/>
   <p>Price: 500 Taka<p>
-  <p class='av'>Available now<p>
-</div>
+  <p class='av'>Available now<p></div>
 <div>
   <h3>Tomato</h3>
   <img src='Images/Tomato.jpg'/>
