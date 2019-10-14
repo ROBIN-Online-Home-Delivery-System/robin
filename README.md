@@ -1,3 +1,4 @@
+<link rel="stylesheet" href='css/bootstrap.css'>
 <style>
 h1{
   color:blue;
@@ -27,6 +28,7 @@ Enter your name hare
 Password
 <input type="password">
 <button>Login</button>
+<button class='btn btn-success'>Sign up</button>
 <div><p><h3>Rice</h3><P>
   <img src='Images/Rice.jpg'/>
   <p>Price: 50 Taka<p>
