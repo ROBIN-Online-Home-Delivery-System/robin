@@ -29,6 +29,7 @@ Password
 <input type="password">
 <button>Login</button>
 <button class='btn btn-success'>Sign up</button>
+<button type="button" class="btn btn-outline-info"><a href='https://www.facebook.com'>f</a></button>
 <div><p><h3>Rice</h3><P>
   <img src='Images/Rice.jpg'/>
   <p>Price: 50 Taka<p>
