@@ -1,5 +1,5 @@
-<a href="the-box-model.html">The Box Model  </a>
-<a href="layout.html">Layout  </a>
+<a href="the-box-model.html" target="blank">The Box Model  </a>
+<a href="layout.html" target="blank">Layout  </a>
 
 
 
