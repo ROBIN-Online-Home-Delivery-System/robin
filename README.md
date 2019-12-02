@@ -1,9 +1,6 @@
-<div>
-<a href="the-box-model.html">The Box Model</a>
-  </div>
-  <div>
-<a href="layout.html">Layout</a>
-  </div>
+<a href="the-box-model.html">The Box Model  </a>
+<a href="layout.html">Layout  </a>
+
 
 
 
