@@ -2,7 +2,7 @@
 <a href="layout.html" target="blank">Layout  </a>
 <a href="The Terminal.html" target="blank">The Terminal  </a>
 <a href="My Web Site/index.html" target="blank">Nav Bar  </a>
-<a style="padding: 200px;" href="My Web Site/animated.html" target="blank">Nav Bar Animated </a>
+<a style="padding: 20px;" href="My Web Site/animated.html" target="blank">Nav Bar Animated </a>
 
 
 <link rel="stylesheet" href='css/bootstrap.css'>
