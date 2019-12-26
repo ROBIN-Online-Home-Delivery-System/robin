@@ -1,7 +1,7 @@
 <a href="the-box-model.html" target="blank">The Box Model  </a>
 <a href="layout.html" target="blank">Layout  </a>
 <a href="The Terminal.html" target="blank">The Terminal  </a>
-<a href="my web site.html" target="blank">My Web Site  </a>
+<a href="My Web Site/index.html" target="blank">Nav Bar  </a>
 
 
 <link rel="stylesheet" href='css/bootstrap.css'>
