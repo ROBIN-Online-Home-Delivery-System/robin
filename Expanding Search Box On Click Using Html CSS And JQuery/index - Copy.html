@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="style - Copy.css" media="all" />
+	</head>
+	<body>
+		<div class="search">
+			<input type="text" placeholder="Search..."/>
+			<div class="icon"></div>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.icon').click(function(){
+					$('.search').toggleClass('active')
+				})
+			})
+		</script>
+	</body>
+</html>
