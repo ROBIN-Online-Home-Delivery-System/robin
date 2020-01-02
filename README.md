@@ -3,7 +3,7 @@
 <a style="padding: 5px;" href="The Terminal.html" target="blank">The Terminal  </a>
 <a style="padding: 5px;" href="My Web Site/index.html" target="blank">Nav Bar  </a>
 <a style="padding: 5px;" href="My Web Site/animated.html" target="blank">Nav Bar Animated </a>
-<a style="padding: 5px;" href="Expanding Search Box On Click Using Html CSS And JQuery/animated.html" target="blank">Nav Bar Animated </a>
+<a style="padding: 5px;" href="Expanding Search Box On Click Using Html CSS And JQuery/index - Copy.html" target="blank">Expanding Search Box </a>
 
 <link rel="stylesheet" href='css/bootstrap.css'>
 <style>
